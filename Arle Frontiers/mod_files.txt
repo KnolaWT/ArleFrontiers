@@ -1,4 +1,3 @@
-add raw/CommonObject.pac
 add raw/EffectCommon.pac
 add raw/character/kodamachild.pac
 add raw/character/kodamacommon.pac
