@@ -1,0 +1,40 @@
+{
+  "Groups": [
+    {
+      "Name": "Main",
+      "DisplayName": "Configuration",
+      "Elements": [
+		{
+          "Name": "IncludeDir1",
+		  "Description": [
+		    "Enables the font swap"
+		  ],
+          "DisplayName": "Font Swap",
+          "Type": "FontEnum",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": "nofont"
+		}
+      ]
+    }
+  ],
+  "Enums": {
+    "FontEnum": [
+      {
+	    "DisplayName": "Enabled Font",
+        "Value": "font",
+        "Description": [
+         "Enabled font swap"
+        ]
+      },
+	        {
+        "DisplayName": "Disabled Font",
+        "Value": "nofont",
+        "Description": [
+        "Disabled font swap"
+        ]
+      }
+    ]
+	},
+  "IniFile": "mod.ini"
+}
