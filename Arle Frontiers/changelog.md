@@ -1,3 +1,6 @@
+## Arle Frontiers V1.1
+- Added Soap Shoes
+
 ## Arle Frontiers V1.0
 - First public release
 

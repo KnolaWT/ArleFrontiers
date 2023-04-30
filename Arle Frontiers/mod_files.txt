@@ -1,14 +1,2 @@
-add raw/EffectCommon.pac
-add raw/character/kodamachild.pac
-add raw/character/kodamacommon.pac
-add raw/character/sonic.pac
-add raw/character/soniccyber.pac
-add raw/character/supersonic.pac
-add raw/scalablefont/scalablefont.pac
-add raw/sound/voice_rangers_event_en.acb
-add raw/sound/voice_rangers_event_en.awb
-add raw/sound/voice_rangers_sonic_en.acb
-add raw/ui/ui_gamemodeopening_en.pac
-add raw/ui/ui_gamemodetitle.pac
-add raw/ui/ui_gamemodetitle_en.pac
+add raw/dlc/dlccrm/dlccrm.pac
 add mod.ini
