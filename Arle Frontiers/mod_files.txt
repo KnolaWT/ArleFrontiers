@@ -1,2 +1,3 @@
+remove raw/dlc/dlccrm/dlccrm.pac
 add raw/dlc/dlccrm/dlccrm.pac
 add mod.ini

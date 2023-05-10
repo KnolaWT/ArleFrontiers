@@ -1,3 +1,6 @@
+## Arle Frontiers V1.2
+- Made Soap Shoes blue
+
 ## Arle Frontiers V1.1
 - Added Soap Shoes
 
