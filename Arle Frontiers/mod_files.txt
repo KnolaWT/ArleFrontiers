@@ -1,3 +1,9 @@
-remove raw/dlc/dlccrm/dlccrm.pac
-add raw/dlc/dlccrm/dlccrm.pac
+remove raw/character/kodamacommon.pac
+remove raw/character/sonic.pac
+remove raw/character/supersonic.pac
+remove raw/EffectCommon.pac
+add raw/character/kodamacommon.pac
+add raw/character/sonic.pac
+add raw/character/supersonic.pac
+add raw/EffectCommon.pac
 add mod.ini
