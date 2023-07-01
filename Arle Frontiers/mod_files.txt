@@ -2,8 +2,12 @@ remove raw/character/kodamacommon.pac
 remove raw/character/sonic.pac
 remove raw/character/supersonic.pac
 remove raw/EffectCommon.pac
+remove raw/ui/ui_gamemodetitle.pac
+remove raw/ui/ui_gamemodetitle_en.pac
 add raw/character/kodamacommon.pac
 add raw/character/sonic.pac
 add raw/character/supersonic.pac
 add raw/EffectCommon.pac
+add raw/ui/ui_gamemodetitle.pac
+add raw/ui/ui_gamemodetitle_en.pac
 add mod.ini
